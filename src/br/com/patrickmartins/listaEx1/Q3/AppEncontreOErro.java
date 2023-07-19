@@ -21,3 +21,4 @@ public class AppEncontreOErro {
 		System.out.println("A distância é: " + distancia);
 	}
 }
+
